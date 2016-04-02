@@ -39,13 +39,13 @@ I asked my three friends who are not familiar with this dataset for their feedba
 
 - It is really cool that the line pops out when I hoover over the line. But the legend seems too crowded and small which makes it hard to read. 
 
-- When a line is selected, it took me some time to find out the corresponding airline by comparing the colors in the legend. I think emphasizing the individual airline legend when you select the line in the chart should be a good idea.
+- When a line was selected, it took me some time to find out the corresponding airline by comparing the colors in the legend. I think emphasizing the individual airline legend when you select the line in the chart should be a good idea.
 
 #### Feedback 2
 
 - Wow, it seems that I should take Delta Airline when I plan my trip!
 
-- The line colors are nice and comfortable to the eyes. However, the gridlines sometimes distracted my attention when I look at the trend lines.
+- The line colors are nice and comfortable to the eyes. However, the gridlines sometimes distracted my attention when I looked at the trend lines.
 
 #### Feedback 3
 
