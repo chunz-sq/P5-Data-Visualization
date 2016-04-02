@@ -101,7 +101,7 @@ d3.csv("data/data.csv", function(d) {
               .style('color', 'Black')
               .text(function (d) { return d; });
 
-  // get a unique list of Airport values to use when filtering
+  // get a unique list of Airline values to use when filtering
   var filterValues = dimple.getUniqueValues(data, 'Carrier Name');
   // debugger;
 
