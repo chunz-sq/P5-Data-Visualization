@@ -36,3 +36,43 @@ This initial plot can be viewed at `index_initial.html`, or below:
 I asked my three friends who are not familiar with this dataset for their feedback, and listed the highlighted comments as below:
 
 #### Feedback 1
+
+- It is really cool that the line pops out when I hoover over the line. But the legend seems too crowded and small which makes it hard to read. 
+
+- When a line is selected, it took me some time to find out the corresponding airline by comparing the colors in the legend. I think emphasizing the individual airline legend when you select the line in the chart should be a good idea.
+
+#### Feedback 2
+
+- Wow, it seems that I should take Delta Airline when I plan my trip!
+
+- The line colors are nice and comfortable to the eyes. However, the gridlines sometimes distracted my attention when I look at the trend lines.
+
+#### Feedback 3
+
+- A nice and clean interactive chart! 
+
+- The interaction allows me to select and highlight one line at a time. What if I want to compare the performance of 2 airlines?
+
+### Final
+
+Based on the feedback, I implemented the following changes:
+
+- I resized the legend and made the font larger.
+- I added another interaction: when the mouse is moved over a line, the corresponding legend pop out as well as the line itself.
+- I subdued the grid lines.
+- I added one more interaction: manually select lines by clicking the legend.  By looking at the dimple.js example listed in the resources, I was able to realize this function.
+
+This initial plot can be viewed at `index_final.html`, or below:
+
+![Final Chart]( https://github.com/happychun85/P5-Data-Visualization/blob/master/images/final_plot.png)
+
+### Resources
+
+- [dimple.js Documentation](http://dimplejs.org/)
+- [d3.js Documentation]( https://github.com/mbostock/d3/wiki/API-Reference)
+- [Interactive Legend - Dimple]( http://dimplejs.org/advanced_examples_viewer.html?id=advanced_interactive_legends)
+
+### Data
+
+- `data/ 620069953_12016_3132_airline_delay_causes.csv`: original downloaded dataset including all airline performance data from June 2003 to January 2016.
+- `data/data.csv`: cleaned and truncated dataset, including only the top 5 airlines from June 2003 to Dec 2015.
