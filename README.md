@@ -62,7 +62,7 @@ Based on the feedback, I implemented the following changes:
 - I subdued the grid lines.
 - I added one more interaction: manually select lines by clicking the legend.  By looking at the dimple.js example listed in the resources, I was able to realize this function.
 
-This initial plot can be viewed at `index_final.html`, or below:
+This final plot can be viewed at `index_final.html`, or below:
 
 ![Final Chart]( https://github.com/happychun85/P5-Data-Visualization/blob/master/images/final_plot.png)
 
