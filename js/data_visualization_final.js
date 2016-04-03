@@ -25,7 +25,8 @@ d3.csv("data/data.csv", function(d) {
   // set y axis
   var minY = 0.5,
       maxY = 1;
-  var y = myChart.addMeasureAxis('y', 'On Time'); // when check the variable data, the field names are different from the ones in csv file.
+  var y = myChart.addMeasureAxis('y', 'On Time'); 
+  // when check the variable data, the field names are different from the ones in csv file.
   y.tickFormat = '%';
   y.overrideMin = minY;
   y.overrideMax = maxY;
