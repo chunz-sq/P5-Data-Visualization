@@ -3,7 +3,7 @@ by Chun Zhu
 
 ### Summary
 
-This chart visualizes 5 top U.S. domestic airlines' on-time arrival performance from 2003 to 2015. It illustrates the on-time performance of various airlines over time, and which airlines were currently performing the best.  It also shows the general trends that all 5 airlines experienced: a marked dip in performance from 2006 to 2007, individual peaks from 2011 to 2012, and a more recent decline from 2012 to 2014. A flight is considered delayed when it arrived 15 or more minutes than the schedule.
+This chart visualizes 5 top U.S. domestic airlines' on-time arrival performance from 2003 to 2015. It illustrates the on-time performance of various airlines over time, and Delta Airlines performed the best among the top 5 airlines since 2011.  It also shows the general trends that all 5 airlines experienced: a marked dip in performance from 2006 to 2007, individual peaks from 2011 to 2012, and a more recent decline from 2012 to 2014. A flight is considered delayed when it arrived 15 or more minutes than the schedule.
 
 ### Design
 
